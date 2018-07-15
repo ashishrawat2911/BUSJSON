@@ -1,180 +1,164 @@
 {
   "students": [
     {
-      "name": "Ashish Rawat ",
+      "name": "Ashish Rawat",
       "email": "ashishrawat2911@gmail.com",
       "password": "12345",
       "section": "B",
-      "mentor_id": 1
-    }
-    ,{
-      "name": "Ashish Rawat ",
-      "email": "ashishrawat2911@gmail.com",
-      "password": "12345",
-      "section": "B",
-      "mentor_id": 1
-    },{
-      "name": "Ashish Rawat ",
-      "email": "ashishrawat2911@gmail.com",
-      "password": "12345",
-      "section": "B",
-      "mentor_id": 1
-    },{
-      "name": "Ashish Rawat ",
-      "email": "ashishrawat2911@gmail.com",
-      "password": "12345",
-      "section": "B",
-      "mentor_id": 1
-    },{
-      "name": "Ashish Rawat ",
-      "email": "ashishrawat2911@gmail.com",
-      "password": "12345",
-      "section": "B",
-      "mentor_id": 1
-    },{
-      "name": "Ashish Rawat ",
-      "email": "ashishrawat2911@gmail.com",
-      "password": "12345",
-      "section": "B",
-      "mentor_id": 1
-    },{
-      "name": "Ashish Rawat ",
-      "email": "ashishrawat2911@gmail.com",
-      "password": "12345",
-      "section": "B",
-      "mentor_id": 1
-    },{
-      "name": "Ashish Rawat ",
-      "email": "ashishrawat2911@gmail.com",
-      "password": "12345",
-      "section": "B",
-      "mentor_id": 1
-    },{
-      "name": "Ashish Rawat ",
-      "email": "ashishrawat2911@gmail.com",
-      "password": "12345",
-      "section": "B",
-      "mentor_id": 1
-    },{
-      "name": "Ashish Rawat ",
-      "email": "ashishrawat2911@gmail.com",
-      "password": "12345",
-      "section": "B",
-      "mentor_id": 1
-    },{
-      "name": "Ashish Rawat ",
-      "email": "ashishrawat2911@gmail.com",
-      "password": "12345",
-      "section": "B",
-      "mentor_id": 1
-    },{
-      "name": "Ashish Rawat ",
-      "email": "ashishrawat2911@gmail.com",
-      "password": "12345",
-      "section": "B",
-      "mentor_id": 1
-    },{
-      "name": "Ashish Rawat ",
-      "email": "ashishrawat2911@gmail.com",
-      "password": "12345",
-      "section": "B",
-      "mentor_id": 1
-    },{
-      "name": "Ashish Rawat ",
-      "email": "ashishrawat2911@gmail.com",
-      "password": "12345",
-      "section": "B",
-      "mentor_id": 1
-    },{
-      "name": "Ashish Rawat ",
-      "email": "ashishrawat2911@gmail.com",
-      "password": "12345",
-      "section": "B",
-      "mentor_id": 1
-    },{
-      "name": "Ashish Rawat ",
-      "email": "ashishrawat2911@gmail.com",
-      "password": "12345",
-      "section": "B",
-      "mentor_id": 1
-    },{
-      "name": "Ashish Rawat ",
-      "email": "ashishrawat2911@gmail.com",
-      "password": "12345",
-      "section": "B",
-      "mentor_id": 1
-    },{
-      "name": "Ashish Rawat ",
-      "email": "ashishrawat2911@gmail.com",
-      "password": "12345",
-      "section": "B",
-      "mentor_id": 1
-    },{
-      "name": "Ashish Rawat ",
-      "email": "ashishrawat2911@gmail.com",
-      "password": "12345",
-      "section": "B",
-      "mentor_id": 1
-    },{
-      "name": "Ashish Rawat ",
-      "email": "ashishrawat2911@gmail.com",
-      "password": "12345",
-      "section": "B",
-      "mentor_id": 1
-    },{
-      "name": "Ashish Rawat ",
-      "email": "ashishrawat2911@gmail.com",
-      "password": "12345",
-      "section": "B",
-      "mentor_id": 1
-    },{
-      "name": "Ashish Rawat ",
-      "email": "ashishrawat2911@gmail.com",
-      "password": "12345",
-      "section": "B",
-      "mentor_id": 1
-    },{
-      "name": "Ashish Rawat ",
-      "email": "ashishrawat2911@gmail.com",
-      "password": "12345",
-      "section": "B",
-      "mentor_id": 1
-    },{
-      "name": "Ashish Rawat ",
-      "email": "ashishrawat2911@gmail.com",
-      "password": "12345",
-      "section": "B",
-      "mentor_id": 1
-    },{
-      "name": "Ashish Rawat ",
-      "email": "ashishrawat2911@gmail.com",
-      "password": "12345",
-      "section": "B",
-      "mentor_id": 1
-    },{
-      "name": "Ashish Rawat ",
-      "email": "ashishrawat2911@gmail.com",
-      "password": "12345",
-      "section": "B",
-      "mentor_id": 1
-    },{
-      "name": "Ashish Rawat ",
-      "email": "ashishrawat2911@gmail.com",
-      "password": "12345",
-      "section": "B",
-      "mentor_id": 1
-    },{
-      "name": "Ashish Rawat ",
-      "email": "ashishrawat2911@gmail.com",
-      "password": "12345",
-      "section": "B",
-      "mentor_id": 1
-    },{
-      "name": "Ashish Rawat ",
-      "email": "ashishrawat2911@gmail.com",
-      "password": "12345",
-      "section": "B",
-      "mentor_id": 1
+      "branch": "btech",
+      "mentor_id": "1"
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "section": "",
+      "branch": "",
+      "mentor_id": ""
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "section": "",
+      "branch": "",
+      "mentor_id": ""
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "section": "",
+      "branch": "",
+      "mentor_id": ""
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "section": "",
+      "branch": "",
+      "mentor_id": ""
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "section": "",
+      "branch": "",
+      "mentor_id": ""
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "section": "",
+      "branch": "",
+      "mentor_id": ""
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "section": "",
+      "branch": "",
+      "mentor_id": ""
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "section": "",
+      "branch": "",
+      "mentor_id": ""
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "section": "",
+      "branch": "",
+      "mentor_id": ""
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "section": "",
+      "branch": "",
+      "mentor_id": ""
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "section": "",
+      "branch": "",
+      "mentor_id": ""
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "section": "",
+      "branch": "",
+      "mentor_id": ""
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "section": "",
+      "branch": "",
+      "mentor_id": ""
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "section": "",
+      "branch": "",
+      "mentor_id": ""
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "section": "",
+      "branch": "",
+      "mentor_id": ""
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "section": "",
+      "branch": "",
+      "mentor_id": ""
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "section": "",
+      "branch": "",
+      "mentor_id": ""
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "section": "",
+      "branch": "",
+      "mentor_id": ""
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "section": "",
+      "branch": "",
+      "mentor_id": ""
     }
   ]
 }
