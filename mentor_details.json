@@ -1,7 +1,7 @@
 {
   "mentor": [
     { 
-      "mentor_id"=1,
+      "mentor_id"="1",
       "mentor_name": "Name: Prof. Kunal Kumar Singh",
       "designation":"Assistant Professor",
       "department": "Applied Sciences and Humanities",
@@ -9,7 +9,7 @@
       "mentor_image": ""
     },
     { 
-      "mentor_id"=2,
+      "mentor_id"="2",
       "mentor_name": "Dr. Gauri Katiyar",
       "designation": "Associate Professor",
       "department":"Applied Sciences and Humanities",
@@ -17,7 +17,7 @@
       "mentor_image": ""
     },
     { 
-      "mentor_id"=3,
+      "mentor_id"="3",
       "mentor_name": " Dr. Renu Choudhary",
       "designation": " Assistant Professor",
       "department": " Applied Sciences and Humanities",
@@ -25,7 +25,7 @@
       "mentor_image": ""
     },
     {
-       "mentor_id"=4,
+       "mentor_id"="4",
       "mentor_name": ": Dr. Nidhi Puri",
       "designation": " Assistant Professor",
       "department": "Applied Sciences and Humanities",
@@ -33,7 +33,7 @@
       "mentor_image": ""
     },
     {
-       "mentor_id"=5,
+       "mentor_id"="5",
       "mentor_name": "Name: Dr. Arunesh K. Yadav",
       "designation": " Assistant Professor",
       "department": " Applied Sciences and Humanities",
@@ -41,7 +41,7 @@
       "mentor_image": ""
     },
     {
-       "mentor_id"=6,
+       "mentor_id"="6",
       "mentor_name": "Dr. Arti Dua",
       "designation": ": Assistant Professor",
       "department": " Applied Sciences and Humanities",
@@ -49,7 +49,7 @@
       "mentor_image": ""
     },
     {
-       "mentor_id"=7,
+       "mentor_id"="7",
       "mentor_name": "Prof. Surendra Singh",
       "designation": " Assistant Professor",
       "department": " Applied Sciences and Humanities",
@@ -57,7 +57,7 @@
       "mentor_image": ""
     },
     {
-       "mentor_id"=8,
+       "mentor_id"="8",
       "mentor_name": "Prof. Mohit K. Saxena",
       "designation": "Assistant Professor",
       "department":" Applied Sciences and Humanities",
@@ -65,7 +65,7 @@
       "mentor_image": ""
     },
     {
-       "mentor_id"=9,
+       "mentor_id"="9",
       "mentor_name": "Prof. Ashish Kumar Gupta",
       "designation": " Assistant Professor",
       "department": " Applied Sciences and Humanities",
@@ -73,7 +73,7 @@
       "mentor_image": ""
     },
     {
-       "mentor_id"=10,
+       "mentor_id"="10",
       "mentor_name": "Prof. Abhishek Rai",
       "designation": "Assistant Professor",
       "department": " Applied Sciences and Humanities",
@@ -81,7 +81,7 @@
       "mentor_image": ""
     },
     {
-       "mentor_id"=11,
+       "mentor_id"="11",
       "mentor_name": ": Dr. Praveen Chandra Jha",
       "designation": " Associate Professor",
       "department": " Applied Sciences and Humanities",
@@ -89,7 +89,7 @@
       "mentor_image": ""
     },
     {
-       "mentor_id"=12,
+       "mentor_id"="12",
       "mentor_name": " Prof. Vivek Kumar",
       "designation": "Assistant Professor",
       "department": "Applied Sciences and Humanities",
@@ -97,7 +97,7 @@
       "mentor_image": ""
     },
     {
-       "mentor_id"=13,
+       "mentor_id"="13",
       "mentor_name": "Dr. Bhanumati Panda",
       "designation": "Assistant Professor",
       "department": "Applied Sciences and Humanities",
@@ -105,7 +105,7 @@
       "mentor_image": ""
     },
     { 
-      "mentor_id"=14,
+      "mentor_id"="14",
       "mentor_name": "Dr. Ruchi Srivastava",
       "designation": "Assistant Professor",
       "department": "Applied Sciences and Humanities",
@@ -113,7 +113,7 @@
       "mentor_image": ""
     },
     {
-       "mentor_id"=15,
+       "mentor_id"="15",
       "mentor_name": "Prof. Vivek Tomar",
       "designation": "Assistant Professor",
       "department": "Applied Sciences and Humanities",
@@ -121,7 +121,7 @@
       "mentor_image": ""
     },
     {
-       "mentor_id"=16,
+       "mentor_id"="16",
       "mentor_name": "Dr. Preeti Tewari",
       "designation": "Assistant professor",
       "department": "Applied Sciences and Humanities",
