@@ -9,15 +9,15 @@
       "mentor_id": "1"
     },
     {
-      "name": "Prakash Tripathi",
-      "email": "prakash@gmail.com",
+      "name": "Mohit Joshi",
+      "email": "mjtabletennis@gmail.com",
       "password": "12345",
-      "section": "B",
-      "branch": "mba",
+      "section": "A",
+      "branch": "btech",
       "mentor_id": "2"
     },
     {
-      "name": "Hema",
+      "name": "Ankit",
       "email": "hema@123",
       "password": "12345",
       "section": "B",
