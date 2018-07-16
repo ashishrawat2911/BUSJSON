@@ -17,12 +17,12 @@
       "mentor_id": "2"
     },
     {
-      "name": "",
-      "email": "",
-      "password": "",
-      "section": "",
-      "branch": "",
-      "mentor_id": ""
+      "name": "Hema",
+      "email": "hema@123",
+      "password": "12345",
+      "section": "B",
+      "branch": "btech",
+      "mentor_id": "3"
     },
     {
       "name": "",
