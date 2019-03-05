@@ -25,7 +25,7 @@
       "unit": "kg"
     },
     {
-      "cost": 20,
+      "cost": 20.0,
       "itemId": 4,
       "itemImage": "http://www.wholeliving.com/sites/files/wholeliving.com/ecl/images/content/pub/body_and_soul/2008_wl/bd102978_0208_grapeft_l.jpg",
       "itemName": "Grapefruits",
